@@ -1,0 +1,12 @@
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe.config
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.exe
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\bin\Debug\DrawingApplication.pdb
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.AssemblyReference.cache
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.MDIParent1.resources
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.Properties.Resources.resources
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.GenerateResource.cache
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.csproj.CoreCompileInputs.cache
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.exe
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.pdb
+C:\Users\chapi\source\repos\DrawingApplication\DrawingApplication\obj\Debug\DrawingApplication.Form1.resources
